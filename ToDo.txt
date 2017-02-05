@@ -1,0 +1,21 @@
+To do:
+
+*Draw everything
+
+*Start position generation
+
+*Score and remaining ships
+
+Saucer and path AI
+
+Missiles
+
+Collision detection and division of asteroids
+
+Keyboard control
+
+Player ship
+
+Thrust
+
+High score table
